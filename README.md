@@ -1,6 +1,6 @@
 # Elmir Khalilov - praesidi
 
-Hello, my name is Elmir but you can call me El. I'm a self taught web-developer based most time in Russia but for now I travel between Georgia 🇬🇪 / Azerbaijan 🇦🇿).
+Hello, my name is Elmir but you can call me L. I'm a self taught web-developer used to based most of the time in Russia but for now I live in Georgia🇬🇪 & Azerbaijan🇦🇿 respectevly).
 
 I love creating new staff and will prefer practice to theory.
 
