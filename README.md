@@ -61,7 +61,7 @@ So far, I mostly do only frontend side but I will definitely learn UX/UI to deve
         height="40"
         alt="Jest"
       />
-      <br /><strong>Figma</strong>
+      <br /><strong>Jest</strong>
     </td>
   </tr>
 </table>
