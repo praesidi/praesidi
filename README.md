@@ -54,6 +54,15 @@ So far, I mostly do only frontend side but I will definitely learn UX/UI to deve
       />
       <br /><strong>Figma</strong>
     </td>
+    <td align="center" height="120" width="120">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+        width="40"
+        height="40"
+        alt="Jest"
+      />
+      <br /><strong>Figma</strong>
+    </td>
   </tr>
 </table>
 
