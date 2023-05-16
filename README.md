@@ -29,12 +29,12 @@ So far, I mostly do only frontend side but I will definitely learn UX/UI to deve
     </td>
     <td align="center" height="120" width="120">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
         width="40"
         height="40"
-        alt="Eslint"
+        alt="Tailwind"
       />
-      <br /><strong>Eslint</strong>
+      <br /><strong>Tailwind</strong>
     </td>
     <td align="center" height="120" width="120">
       <img
@@ -105,15 +105,6 @@ So far, I mostly do only frontend side but I will definitely learn UX/UI to deve
         alt="NodeJS"
       />
       <br /><strong>NodeJS</strong>
-    </td>
-    <td align="center" height="120" width="120">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-        width="40"
-        height="40"
-        alt="Tailwind"
-      />
-      <br /><strong>Tailwind</strong>
     </td>
     <td align="center" height="120" width="120">
       <img
