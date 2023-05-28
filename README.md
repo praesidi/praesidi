@@ -9,14 +9,14 @@ So far, I mostly do only frontend side but I will definitely learn UX/UI to deve
 
 <table>
   <tr>
-    <td align="center" height="120" width="120">
+   <td align="center" height="120" width="120">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
         width="40"
         height="40"
-        alt="JavaScript"
+        alt="TypeScript"
       />
-      <br /><strong>JavaScript</strong>
+      <br /><strong>TypeScript</strong>
     </td>
         <td align="center" height="120" width="120">
       <img
@@ -79,15 +79,6 @@ So far, I mostly do only frontend side but I will definitely learn UX/UI to deve
 
 <table>
   <tr>
-    <td align="center" height="120" width="120">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-        width="40"
-        height="40"
-        alt="TypeScript"
-      />
-      <br /><strong>TypeScript</strong>
-    </td>
     <td align="center" height="120" width="120">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
