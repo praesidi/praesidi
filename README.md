@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=400&size=32&pause=1000&color=ADBAC7&repeat=false&width=435&height=50&lines=Elmir+Khalilov+-+praesidi)](https://git.io/typing-svg)
 ---
 
-Hi, my name is Elmir. I'm a self-taught web developer who used to base most of the time in Russia but for now I live in Azerbaijan🇦🇿 and in Georgia🇬🇪 from time to time.
+Hi, my name is Elmir and I am a self-taught web developer from Eastern Europe. I love creating interesting projects and always try to learn something new.
 
 So far, I mostly do only frontend side but I will definitely learn UX/UI to develop good-looking and user-friendly interfaces and backend side to improve security and performance for users.
 
