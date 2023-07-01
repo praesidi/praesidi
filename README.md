@@ -3,7 +3,7 @@
 
 Hi, my name is Elmir and I am a self-taught web developer from Eastern Europe. I love creating interesting projects and always try to learn something new.
 
-So far, I mostly do only frontend side but I will definitely learn UX/UI to develop good-looking and user-friendly interfaces and backend side to improve security and performance for users.
+So far, I mostly do only frontend but I am going to learn UX/UI to develop good-looking and user-friendly interfaces and backend to improve security and performance for users.
 
 ## Technologies & Tools I already use
 
@@ -44,6 +44,15 @@ So far, I mostly do only frontend side but I will definitely learn UX/UI to deve
         alt="Tailwind"
       />
       <br /><strong>Tailwind</strong>
+    </td>
+    <td align="center" height="120" width="120">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/material-ui/material-ui-plain.svg"
+        width="40"
+        height="40"
+        alt="MUI"
+      />
+      <br /><strong>Material UI</strong>
     </td>
     <td align="center" height="120" width="120">
       <img
