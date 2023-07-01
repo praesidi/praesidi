@@ -47,7 +47,7 @@ So far, I mostly do only frontend but I am going to learn UX/UI to develop good-
     </td>
     <td align="center" height="120" width="120">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/material-ui/material-ui-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg"
         width="40"
         height="40"
         alt="MUI"
