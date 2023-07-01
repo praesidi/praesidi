@@ -52,7 +52,7 @@ So far, I mostly do only frontend but I am going to learn UX/UI to develop good-
         height="40"
         alt="MUI"
       />
-      <br /><strong>Material UI</strong>
+      <br /><strong>MUI</strong>
     </td>
     <td align="center" height="120" width="120">
       <img
