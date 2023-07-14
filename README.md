@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=400&size=32&pause=1000&color=ADBAC7&repeat=false&width=435&height=50&lines=Elmir+Khalilov+-+praesidi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=400&size=32&pause=1000&color=ADBAC7&repeat=false&width=435&height=50&lines=praesidi)](https://git.io/typing-svg)
 ---
 
 Hi, my name is Elmir and I am a self-taught web developer from Eastern Europe. I love creating interesting projects and always try to learn something new.
