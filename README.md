@@ -9,23 +9,32 @@ So far, I mostly do only frontend but I am going to learn UX/UI to develop good-
 
 <table>
   <tr>
-   <td align="center" height="120" width="120">
+    <td align="center" height="120" width="120">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
         width="40"
         height="40"
         alt="TypeScript"
       />
-      <br /><strong>TypeScript</strong>
+      <br/><strong>TypeScript</strong>
     </td>
-        <td align="center" height="120" width="120">
+    <td align="center" height="120" width="120">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="40"
         height="40"
         alt="React"
       />
-      <br /><strong>React</strong>
+      <br/><strong>React</strong>
+    </td>
+    <td align="center" height="120" width="120">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+        width="40"
+        height="40"
+        alt="Redux"
+      />
+      <br/><strong>Redux</strong>
     </td>
     <td align="center" height="120" width="120">
       <img
