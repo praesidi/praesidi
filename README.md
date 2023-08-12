@@ -146,7 +146,4 @@ So far, I mostly do only frontend but I am going to learn UX/UI to develop good-
 </table>
 
 ## Fancy Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=praesidi&show_icons=true&&theme=apprentice)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=praesidi&theme=apprentice&border_radius=5)](https://git.io/streak-stats)
