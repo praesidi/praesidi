@@ -36,6 +36,24 @@ So far, I mostly do only frontend but I am going to learn UX/UI to develop good-
       />
       <br/><strong>Redux</strong>
     </td>
+     <td align="center" height="120" width="120">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="40"
+        height="40"
+        alt="NodeJS"
+      />
+      <br /><strong>NodeJS</strong>
+    </td>
+    <td align="center" height="120" width="120">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        width="40"
+        height="40"
+        alt="MongoDB"
+      />
+      <br /><strong>MongoDB</strong>
+    </td>
     <td align="center" height="120" width="120">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
@@ -108,30 +126,12 @@ So far, I mostly do only frontend but I am going to learn UX/UI to develop good-
     </td>
     <td align="center" height="120" width="120">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        width="40"
-        height="40"
-        alt="NodeJS"
-      />
-      <br /><strong>NodeJS</strong>
-    </td>
-    <td align="center" height="120" width="120">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
         width="40"
         height="40"
         alt="GraphQL"
       />
       <br /><strong>GraphQL</strong>
-    </td>
-    <td align="center" height="120" width="120">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        width="40"
-        height="40"
-        alt="MongoDB"
-      />
-      <br /><strong>MongoDB</strong>
     </td>
     <td align="center" height="120" width="120">
       <img
