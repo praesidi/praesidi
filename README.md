@@ -1,10 +1,9 @@
-Hello! I am Elmir Khalilov, a self-taught web developer from Eastern Europe  👋
+Hello! I am Elmir Khalilov, a fullstack developer from Eastern Europe  👋
 ---
 
 - I love creating interesting projects and I'm always trying to learn something new 
-- MERN stack enjoyer 😎
-- I have expirience with Tailwind, Sass, MaterialUI, Redux Toolkit, NextJS and more
-- Planning to learn Go and UI/UX design in the future
+- I have experience with React, NextJS, Redux Toolkit, Zustand, Tailwind, Sass, MaterialUI, PostgreSQL, Express and more
+- Right now I am learning PHP/Laravel and Go so I can build bigger and cooler projects
 
 <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1oNDFkZmJnbmEyNXNvaG96eGFvZ2thZDZzbjRocXJ4OXFmemRmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif' 
 width="320" />
