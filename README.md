@@ -1,4 +1,4 @@
-Hello! I am Elmir Khalilov, a fullstack developer from Eastern Europe  👋
+Hello! I am Elmir Khalilov, a fullstack developer from Russia  👋
 ---
 
 - I love creating interesting projects and I'm always trying to learn something new 
