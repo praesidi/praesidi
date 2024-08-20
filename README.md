@@ -1,4 +1,4 @@
-Hello! I am Elmir Khalilov, a fullstack developer from Russia  👋
+Sup! My name is Elmir and I am a fullstack developer👋
 ---
 
 - I love creating interesting projects and I'm always trying to learn something new 
